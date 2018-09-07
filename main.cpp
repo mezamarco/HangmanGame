@@ -19,7 +19,7 @@ int main(){
 
   std::cout << "We need two players to play this game.\n\n";
 
-  //Lets get the guessing word from the user
+  //Lets get the guessing word from the user.
   std::string correctWord;
   int sizeOfWord;
 
